@@ -25,4 +25,4 @@
 
 使用的技术：
 
-JAVA语言，SSM框架、MD5加密、jsp页面、layUI框架等技术。
+JAVA语言，SSM框架、MySQl数据库、MD5加密、jsp页面、layUI框架等技术。
