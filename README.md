@@ -1,7 +1,7 @@
 # SSM-StudentSuShe
 基于JAVA SSM框架和jsp的学生宿舍管理系统
 
-演示视频链接：https://live.csdn.net/v/304170
+演示视频链接：https://www.bilibili.com/video/BV1Yk4y1n7r4/
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode  。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
 
